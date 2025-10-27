@@ -36,4 +36,5 @@ git **clone** https://github.com/carvalho484/Projeto_1_HTML_CSS.git
 * **Otimização de Performance:** O uso de imagens não otimizadas pode afetar o tempo de carregamento da página.
 
 ## Conclusão
-Este projeto serve como uma base sólida para iniciantes em HTML e CSS. No entanto, há diversas áreas que podem ser aprimoradas para atender às melhores práticas de desenvolvimento web. A reflexão contínua sobre as escolhas técnicas e a busca por melhorias são essenciais para o crescimento como desenvolvedor.
+Este projeto serve como uma base sólida em HTML e CSS. No entanto, há diversas áreas que podem ser aprimoradas para atender às melhores práticas de desenvolvimento web. A reflexão contínua sobre as escolhas técnicas e a busca por melhorias são essenciais para o crescimento como desenvolvedor.
+
