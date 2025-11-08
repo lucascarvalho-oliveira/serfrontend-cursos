@@ -1,4 +1,5 @@
-# Documentação do Projeto: Projeto_1_HTML_CSS
+# Documentação do Projeto: serfrontend-cursos
+
 ## Visão Geral
 Este repositório contém um projeto desenvolvido com HTML e CSS, com o objetivo de aplicar conceitos fundamentais dessas tecnologias. O projeto é composto pelos seguintes arquivos:
 | Arquivo / Pasta | Descrição |
@@ -37,4 +38,5 @@ git **clone** https://github.com/carvalho484/Projeto_1_HTML_CSS.git
 
 ## Conclusão
 Este projeto serve como uma base sólida em HTML e CSS. No entanto, há diversas áreas que podem ser aprimoradas para atender às melhores práticas de desenvolvimento web. A reflexão contínua sobre as escolhas técnicas e a busca por melhorias são essenciais para o crescimento como desenvolvedor.
+
 
